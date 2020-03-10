@@ -1,0 +1,7 @@
+                  SCOREBOARD:
+    USERNAME: WINS  LOSSES  ROUNDS   DATE
+| y: 0 wins 0 losses 1 rounds  Mon Mar  9 22:26:00 EDT 2020 |
+| vishaak: 0 wins 1 losses 1 rounds  Mon Mar  9 22:26:26 EDT 2020 |
+| vsk: 3 wins 0 losses 6 rounds  Mon Mar  9 22:27:36 EDT 2020 |
+| vishaak: 6 wins 7 losses 22 rounds  Mon Mar  9 22:29:43 EDT 2020 |
+| hi: 1 wins 2 losses 4 rounds  Mon Mar  9 22:30:41 EDT 2020 |
